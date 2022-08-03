@@ -1,4 +1,4 @@
-baseURL = "https://github.com/sinramen/hugo-theme-cactus"
+baseURL = "https://donghyunkim.netlify.app"
 languageCode = "en-us"
 title = "Dong Hyun KIM"
 theme = "cactus"

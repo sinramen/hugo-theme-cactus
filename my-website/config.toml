@@ -1,4 +1,4 @@
-baseURL = "https://donghyunkim.netlify.app"
+baseURL = ""
 languageCode = "en-us"
 title = "Dong Hyun KIM"
 theme = "cactus"

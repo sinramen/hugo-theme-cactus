@@ -1,0 +1,3 @@
+[submodule "my-website/public"]
+	path = my-website/public
+	url = https://github.com/sinramen/hugo-theme-cactus.git

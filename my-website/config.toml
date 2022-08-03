@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://github.com/sinramen/hugo-theme-cactus"
 languageCode = "en-us"
 title = "Dong Hyun KIM"
 theme = "cactus"
@@ -60,7 +60,7 @@ weight = 5
   noindexArchive = true # default, set to true if you don't want search engines to index archive pages (should improve SEO)
 
   # Home page settings
-  description = "Hi, I am Dong Hyun Kim, a researcher in the field of building science, based in Lausanne. You can know more about me on this [about](/about) and my [publication](/publications). This blog is an open notebook explorinng my thoughts on (day)lighting research."
+  description = "Hello, I am Dong Hyun Kim, a researcher in building science, based in Lausanne. You can know more about me on this [about](/about) and my [publication](/publications) section. This blog is an open notebook explorinng my thoughts on (day)lighting research."
   mainSection = "posts" # your main section
   mainSectionTitle = "Blog"
   showAllPostsOnHomePage = false # default
